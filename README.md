@@ -50,6 +50,21 @@ DS2002_p1/
 └── README.md
 ```
 
+## Instructions for Reproducing Results:
+Follow the steps below to reproduce the project
+
+### Step 1:
+- skfj
+
+### Step 2:
+- sjdkfh
+
+### Step 3:
+- kjf
+
+### Step 4:
+- skdj
+
 ## References:
 [1]Chinook sample database, “Chinook sample database,” YugabyteDB Docs, Oct. 15, 2024. https://docs.yugabyte.com/preview/sample-data/chinook/ (accessed Nov. 11, 2024).
 

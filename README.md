@@ -43,7 +43,8 @@ DS2002_p1/
 │       ├── 1-create_chinook.sql
 │       ├── 2-populate_chinook.sql
 │       ├── Chinook_extraction.sql
-│       └── dim_date_chinook.sql
+│       ├── dim_date_chinook.sql
+│       └── final_queries.sql
 │  
 ├── LICENSE.md
 └── README.md

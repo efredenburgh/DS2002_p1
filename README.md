@@ -1,6 +1,5 @@
 # Data Science Systems (DS2002) Project 1 Repository
-Emily Fredenburgh,
-November 11, 2024
+Emily Fredenburgh (xux5ev)
 
 ## Database Information:
 - **Chinook** database is a "digital media store", with tables for artists, albums, customers, employees, invoices, etcetera using Apple iTunes data formed into a library [1].

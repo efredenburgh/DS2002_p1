@@ -33,8 +33,8 @@ DS2002_p1/
 │       └── employee_chinook.json
 │
 ├── OUTPUT/
-│   ├── sql_invoices_per_month_output.csv
-│   └── sql_units_by_customer_output.csv
+│   ├── sql_invoices_per_month.csv
+│   └── sql_units_by_customer.csv
 │
 ├── SCRIPTS/
 │   ├── Jupyter/

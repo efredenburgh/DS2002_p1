@@ -49,6 +49,16 @@ DS2002_p1/
 ├── LICENSE.md
 └── README.md
 ```
+- **CLASS_REFERENCE_CODE/:**
+  - Contains all of the notebooks from class examples and assignments that I referenced to complete this project.
+  - Where I used each source is denoted in the Chinook_ETL.ipynb in the SCRIPTS/Jupyter/ folder
+- **DATA/:**
+  - Contains the extracted tables from the Chinook database as either JSON files or CSV files
+- **OUTPUT/:**
+  - Contains the outputs of each SQL summarization query I ran after creating an invoice fact table.
+- **SCRIPTS/:**
+  - Contains the various scripts I wrote and ran to result in my finished project. They are divided into MySQL and Jupyter to note the environment each script was run in.
+  - The majority of the code for this project is contained in SCRIPTS/Jupyter/Chinook_ETL.ipynb
 
 ## Instructions for Reproducing Results:
 Follow the steps below to reproduce the project

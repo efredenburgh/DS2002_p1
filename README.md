@@ -1,5 +1,5 @@
 # Data Science Systems (DS2002) Project 1 Repository
-Emily Fredenburgh
+Emily Fredenburgh,
 November 11, 2024
 
 ## Database Information:

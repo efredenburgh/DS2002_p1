@@ -13,6 +13,7 @@ Emily Fredenburgh (xux5ev)
 
 ## Map of Documentation
 ### Project Folder Structure:
+```
 DS2002_p1/
 │
 ├── CLASS_REFERENCE_CODE/
@@ -47,6 +48,7 @@ DS2002_p1/
 │  
 ├── LICENSE.md
 └── README.md
+```
 
 ## References:
 [1]Chinook sample database, “Chinook sample database,” YugabyteDB Docs, Oct. 15, 2024. https://docs.yugabyte.com/preview/sample-data/chinook/ (accessed Nov. 11, 2024).

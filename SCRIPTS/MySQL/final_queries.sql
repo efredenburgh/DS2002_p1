@@ -27,4 +27,4 @@ SELECT
     GROUP BY 
         c.customer_key
     ORDER BY 
-        total_units_sold ASC;
+        total_sold_units ASC;

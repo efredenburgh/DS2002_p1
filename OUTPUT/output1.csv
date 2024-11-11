@@ -1,5 +1,5 @@
 '''
-This is the output for the summarization query called "sql_invoices_per_month" and the MySQL code for it is:
+This is the output for the summarization query called sql_invoices_per_month and the MySQL code for it is:
 USE chinook_dw;
 SELECT 
     d.Year,

@@ -39,7 +39,7 @@ DS2002_p1/
 │
 ├── SCRIPTS/
 │   ├── Jupyter/
-│   │   └── 
+│   │   └── Chinook_ETL.ipynb
 │   └── MySQL/
 │       ├── 1-create_chinook.sql
 │       ├── 2-populate_chinook.sql

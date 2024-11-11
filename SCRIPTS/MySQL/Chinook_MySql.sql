@@ -1,4 +1,5 @@
-
+-- This is what I downloaded from the Github Repo below which allowed me to populate the Chinook database, from which I extracted data into chinook_dw later on. 
+-- The licensing agreement allowed me to download and use this software free of charge. 
 /*******************************************************************************
    Chinook Database - Version 1.4.5
    Script: Chinook_MySql.sql

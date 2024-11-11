@@ -34,7 +34,6 @@ DS2002_p1/
 │
 ├── OUTPUT/
 │   ├── sql_invoices_per_month_output.csv
-│   ├── sql_total_quantity_by_product_output.csv
 │   └── sql_units_by_customer_output.csv
 │
 ├── SCRIPTS/

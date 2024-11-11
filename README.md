@@ -3,7 +3,7 @@ DS 2002 Midterm Project Repo
 
 ## Database Information:
 - **Chinook** database is a "digital media store", with tables for artists, albums, customers, employees, invoices, etcetera using Apple iTunes data formed into a library [1].
-- link to an image of the [Chinook Schema](https://schemaspy.org/samples/chinook/relationships.html)
+- link to an image of the [Chinook Schema](https://schemaspy.org/samples/chinook/relationships.html) [2]
 
 
 ## Services Used:
@@ -14,3 +14,4 @@ DS 2002 Midterm Project Repo
 
 ## References:
 [1]Chinook sample database, “Chinook sample database,” YugabyteDB Docs, Oct. 15, 2024. https://docs.yugabyte.com/preview/sample-data/chinook/ (accessed Nov. 11, 2024).
+[2]“Chinook Database,” Schemaspy.org, 2024. https://schemaspy.org/samples/chinook/relationships.html (accessed Nov. 11, 2024).

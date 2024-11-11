@@ -64,3 +64,6 @@ DS2002_p1/
 [1]Chinook sample database, “Chinook sample database,” YugabyteDB Docs, Oct. 15, 2024. https://docs.yugabyte.com/preview/sample-data/chinook/ (accessed Nov. 11, 2024).
 
 [2]“Chinook Database,” Schemaspy.org, 2024. https://schemaspy.org/samples/chinook/relationships.html (accessed Nov. 11, 2024).
+
+[3]“Pandas Merge Operation: What It Is and When to Use It,” InfluxData, Nov. 20, 2023. https://www.influxdata.com/blog/pandas-merge-tutorial/ (accessed Nov. 11, 2024).
+‌

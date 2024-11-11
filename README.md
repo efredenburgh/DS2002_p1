@@ -14,4 +14,5 @@ Emily Fredenburgh (xux5ev)
 
 ## References:
 [1]Chinook sample database, “Chinook sample database,” YugabyteDB Docs, Oct. 15, 2024. https://docs.yugabyte.com/preview/sample-data/chinook/ (accessed Nov. 11, 2024).
+
 [2]“Chinook Database,” Schemaspy.org, 2024. https://schemaspy.org/samples/chinook/relationships.html (accessed Nov. 11, 2024).
